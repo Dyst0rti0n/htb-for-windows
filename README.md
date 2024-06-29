@@ -34,9 +34,13 @@ This repository provides a script to set up the ultimate penetration testing env
     cd ultimate-kali-wsl
     ```
 
+**MUST DO BEFORE RUNNING THE SCRIPT**
+
 2. **Download the HTB VPN Connection Pack:**
 
     Download your HTB VPN connection pack from your [HackTheBox profile](https://www.hackthebox.eu/) and save it to your Downloads folder.
+
+    - **Start up the box you wish to do on HackTheBox**
 
 3. **Run the Setup Script:**
 
