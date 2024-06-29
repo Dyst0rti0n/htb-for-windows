@@ -30,8 +30,8 @@ This repository provides a script to set up the ultimate penetration testing env
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/yourusername/ultimate-kali-wsl.git
-    cd ultimate-kali-wsl
+    git clone https://github.com/Dyst0rti0n/htb-for-windows.git
+    cd htb-for-windows
     ```
 
 **MUST DO BEFORE RUNNING THE SCRIPT**
@@ -47,7 +47,7 @@ This repository provides a script to set up the ultimate penetration testing env
     Open PowerShell as Administrator and execute:
 
     ```powershell
-    .\setup_kali_wsl.ps1
+    .\setup_wsl.ps1
     ```
 
 4. **Configure HackTheBox:**
